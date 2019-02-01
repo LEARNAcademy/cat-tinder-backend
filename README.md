@@ -2,13 +2,13 @@
 We've looked at connecting React apps to an external API, and seen how to use data from an API to build compelling front end applications.  Today we're going to build our own API that will serve the data we create to our front end. 
 
 These sections will cover:
-- App Setup
-- Generating Seeds
-- Setting up Cross Origin Resource Sharing (CORS)
-- API Endpoints
-- Validations
-- Cat Index
-- Connecting the New Cat form
+- [App Setup](./01-rails-setup/README.md)
+- [Generating Seeds](./02-generating-seeds/README.md)
+- [Setting up Cross Origin Resource Sharing (CORS)](./03-cross-origin-resources-sharing/README.md)
+- [API Endpoints](./04-api-endpoints/README.md)
+- [Validations](./validations/README.md)
+- [Cat Index](./getting-cats-to-the-frontend/README.md)
+- [Connecting the New Cat form](./connecting-new-cat-form/README.md)
 
 Creating our own API opens up a new world of possibilities for building engaging, interactive applications.  We can begin to accept user input, store and manipulate that input in the backend, and then provide a personalized experience for our user, perfectly suited to the task he/she is trying to achieve.
 
@@ -27,3 +27,7 @@ We're going to build an application to help our users' cats socialize and be wel
 * Setting up a Ruby on Rails API application
 * Creating endpoints to accept and serve data
 * Validating user input
+
+First thing's first, let's set up the Rails app.
+
+[Go to App Setup](./01-rails-setup/README.md)

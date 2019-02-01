@@ -54,3 +54,10 @@ $ bundle install
 ```
 
 That's it!  We can now accept POST, PUT, and DELETE requests in our server side application.
+
+Let's start setting up the api endpoints to do that!
+
+[Go to API Endpoints](../04-api-endpoints/README.md)
+
+
+[Back to Generating Seeds](../02-generating-seeds/README.md)

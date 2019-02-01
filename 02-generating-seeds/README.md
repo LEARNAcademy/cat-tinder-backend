@@ -28,3 +28,10 @@ Notice that this is just plain old Ruby code, we can put whatever we like in her
 ```
 $ rake db:seed
 ```
+
+We're almost finished with our setup. Next we'll explore the subject of cross origin resource sharing and how to enable this in a Rails app.
+
+[Go to Setting up Cross Origin Resource Sharing (CORS)](../03-cross-origin-resources-sharing/README.md)
+
+
+[Back to App Setup](../01-rails-setup/.README.md)

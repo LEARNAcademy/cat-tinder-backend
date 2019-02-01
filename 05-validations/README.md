@@ -105,3 +105,12 @@ And Now, we're Green!
 Challenges:
 Add the appropriate Validations to make sure that users submit an age, and what the cat enjoys.  
 Add a Validation to assure that the enjoys value is at least 10 characters long.
+
+Now that we've set up our endpoints and tightened up our models, let's start connecting our Rails apps to the frontend.
+
+We'll start with getting a list of cats to the index page.
+
+[Go to Cat Index (Getting cats to the frontend)](../06-getting-cats-to-the-frontend/README.md)
+
+
+[Back to API Endpoints](../04-api-endpoints/README.md)]

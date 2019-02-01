@@ -89,3 +89,8 @@ Last thing to do is add the redirect element in NewCat.js. You can do this a var
 ```
 Notice the ```this.props.success``` statement. If this evaluates to "true" the redirect will run. As long as it evaluates to "false", the program will act as if the redirect doesn't even exist. You will need to pass a "success" value in props to finish this functionality.
 
+
+[Go to Intro](../README.md)
+
+
+[Back to Cat Index (Getting cats to the frontend)](../06-getting-cats-to-the-frontend/README.md)

@@ -179,3 +179,10 @@ And we're Green!  This isn't quite production ready code, but its enough to get 
 
 ## Summary
 In this section, we've built out our first API endpoint to handle requests for listing and creating cats.  In the next section, we're going to deal with validating that the information passed to the ```create``` route is what we expect and handle situations when its not.
+
+Next, we'll take a look at protecting our data with ActiveRecord validations.
+
+[Go to Validations](../05-validations/README.md)
+
+
+[Back to Setting up Cross Origin Resource Sharing (CORS)](../03-cross-origin-resources-sharing/README.md)

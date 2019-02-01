@@ -79,3 +79,10 @@ This is where we've ended up:
 ![cat tinder index](https://s3.amazonaws.com/learn-site/curriculum/cat-tinder/cat-tinder-index.png)
 
 __Excellent__!
+
+Finally, let's give our users the ability to add new cats.
+
+[Go to Connecting the New Cat form](../07-connecting-new-cat-form)
+
+
+[Back to Validations](../05-validations/README.md)

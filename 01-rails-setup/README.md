@@ -87,4 +87,11 @@ Loading development environment (Rails 5.1.5)
 2.4.1 :003 >
 ```
 
-That looks great!  In the next step, we'll expose some endpoints in our API, so the frontend application has a way to communicate with all the functionality we've built out so far.
+That looks great!  Eventually, we'll expose some endpoints in our API, so the frontend application has a way to communicate with all the functionality we've built out so far.
+
+But first, let's look at how to set up dummy data for our Rails app to work with.
+
+[Go to Generating Seeds](../02-generating-seeds/README.md)
+
+
+[Back to Intro](../README.md)
