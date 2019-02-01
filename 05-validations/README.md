@@ -113,4 +113,4 @@ We'll start with getting a list of cats to the index page.
 [Go to Cat Index (Getting cats to the frontend)](../06-getting-cats-to-the-frontend/README.md)
 
 
-[Back to API Endpoints](../04-api-endpoints/README.md)]
+[Back to API Endpoints](../04-api-endpoints/README.md)
