@@ -1,5 +1,5 @@
 # Creating Your Own API
-We've looked at connecting React apps to an external API, and seen how to use data from an API to build compelling front end applications.  Today we're going to build our own API that will serve the data we create to our front end. 
+Today we're going to build our own API that will serve the data we create to our front end. 
 
 These sections will cover:
 - [App Setup](./01-rails-setup/README.md)
