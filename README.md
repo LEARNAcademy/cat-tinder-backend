@@ -4,7 +4,7 @@ We've looked at connecting React apps to an external API, and seen how to use da
 These sections will cover:
 - [App Setup](./01-rails-setup/README.md)
 - [Generating Seeds](./02-generating-seeds/README.md)
-- [Setting up Cross Origin Resource Sharing (CORS)](./03-cross-origin-resources-sharing/README.md)
+- [Setting up Cross Origin Resource Sharing (CORS)](./03-cross-origin-resource-sharing/README.md)
 - [API Endpoints](./04-api-endpoints/README.md)
 - [Validations](./validations/README.md)
 - [Cat Index](./getting-cats-to-the-frontend/README.md)
