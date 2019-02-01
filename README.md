@@ -7,7 +7,7 @@ These sections will cover:
 - [Setting up Cross Origin Resource Sharing (CORS)](./03-cross-origin-resource-sharing/README.md)
 - [API Endpoints](./04-api-endpoints/README.md)
 - [Validations](./05-validations/README.md)
-- [Cat Index](./getting-cats-to-the-frontend/README.md)
+- [Cat Index](./06-getting-cats-to-the-frontend/README.md)
 - [Connecting the New Cat form](./connecting-new-cat-form/README.md)
 
 Creating our own API opens up a new world of possibilities for building engaging, interactive applications.  We can begin to accept user input, store and manipulate that input in the backend, and then provide a personalized experience for our user, perfectly suited to the task he/she is trying to achieve.
