@@ -185,4 +185,4 @@ Next, we'll take a look at protecting our data with ActiveRecord validations.
 [Go to Validations](../05-validations/README.md)
 
 
-[Back to Setting up Cross Origin Resource Sharing (CORS)](../03-cross-origin-resources-sharing/README.md)
+[Back to Setting up Cross Origin Resource Sharing (CORS)](../03-cross-origin-resource-sharing/README.md)
