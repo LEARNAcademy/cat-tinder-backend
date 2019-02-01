@@ -6,7 +6,7 @@ These sections will cover:
 - [Generating Seeds](./02-generating-seeds/README.md)
 - [Setting up Cross Origin Resource Sharing (CORS)](./03-cross-origin-resource-sharing/README.md)
 - [API Endpoints](./04-api-endpoints/README.md)
-- [Validations](./validations/README.md)
+- [Validations](./05-validations/README.md)
 - [Cat Index](./getting-cats-to-the-frontend/README.md)
 - [Connecting the New Cat form](./connecting-new-cat-form/README.md)
 
